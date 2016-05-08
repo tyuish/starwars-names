@@ -1,3 +1,3 @@
 # starwars-names
 
-This is a 6th commit
+This is a 7th commit
