@@ -6,4 +6,4 @@ module.exports = {
   random: uniqueRandomArray(starWarsNames)
 };
 
-// added test comment - 17feb2019
+// added 3 test comment - 17feb2019
